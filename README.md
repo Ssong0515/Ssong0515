@@ -1,4 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Song%20EunSeok&fontAlign=30&fontAlignY=40&color=gradient&fontSize=40&section=header" />
+# Song EunSeok - Full Stack Developer
+
+---
+
+## 👋 소개
+
+안녕하세요! 저는 백엔드와 앱 개발을 다루는 풀스택 개발자 송은석입니다.
+
+새로운 기술을 배우는 것을 좋아하며, 다양한 플랫폼을 활용한 프로젝트 경험이 풍부합니다.
+
+## 💻 Tech Stack
 
 <h3 align="center">Tech Stack 💻</h3>
 
@@ -43,3 +53,30 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft-windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 </p>
+
+## 🚀 주요 프로젝트
+
+[포트폴리오 소개 페이지](https://github.com/Ssong-Portfolio)
+
+- [공공화장실 웹 애플리케이션](https://github.com/Ssong-Portfolio/PublicWC): 스프링을 활용한 공공화장실 위치 찾기 웹 애플리케이션
+- [펀딩 앱](https://github.com/Ssong-Portfolio/Funding): 스프링 부트와 안드로이드를 연동한 소셜 커머스 앱
+- [비품 관리 시스템](https://github.com/Ssong-Portfolio/YESIM): 리액트와 스프링 부트를 사용한 비품 관리 웹 애플리케이션
+
+## 🏆 성과 및 경험
+
+- K-디지털 트레이닝 풀스택 과정 수료
+- 정보처리기사 필기 합격, 실기 결과 대기 중
+- 다양한 팀 프로젝트에서 팀장 역할 수행
+- iOS 앱 개발 시 유료 앱 10위권 달성 및 유지 관리 경험 보유
+
+## 📬 연락처 및 소셜 미디어
+
+- [Blog](https://fullstack405.github.io/blog/)
+- [Email](mailto:406605@naver.com)
+
+## 🌱 개인 관심사
+
+- 💡 개인 앱 아이디어를 구상하고 앱으로 구현하기
+- 🎨 여행을 통한 새로운 문화 경험 즐기기
+
+---
