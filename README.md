@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=환영합니다!&fontAlign=30&fontAlignY=40&color=gradient&fontSize=40&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=SongEunSeok&fontAlign=30&fontAlignY=40&color=gradient&fontSize=40&section=header" />
 
 <h3 align="center">Tech Stack 💻</h3>
 
