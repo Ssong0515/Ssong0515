@@ -58,6 +58,7 @@
 
 [포트폴리오 소개 페이지](https://github.com/Ssong-Portfolio)
 
+- 1인 개발 앱 프로젝트: iOS 캘린더 메모 앱
 - [공공화장실 웹 애플리케이션](https://github.com/Ssong-Portfolio/PublicWC): 스프링을 활용한 공공화장실 위치 찾기 웹 애플리케이션
 - [펀딩 앱](https://github.com/Ssong-Portfolio/Funding): 스프링 부트와 안드로이드를 연동한 소셜 커머스 앱
 - [비품 관리 시스템](https://github.com/Ssong-Portfolio/YESIM): 리액트와 스프링 부트를 사용한 비품 관리 웹 애플리케이션
