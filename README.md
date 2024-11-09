@@ -72,7 +72,7 @@
 
 ## 📬 연락처 및 소셜 미디어
 
-- [Blog](https://fullstack405.github.io/blog/)
+<!-- - [Blog](https://fullstack405.github.io/blog/) -->
 - [Email](mailto:406605@naver.com)
 
 ## 🌱 개인 관심사
